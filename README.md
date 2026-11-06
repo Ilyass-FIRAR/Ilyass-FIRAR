@@ -1,8 +1,5 @@
 ## Systems profile
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ilyass-firar&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118577425%3Fu%3Dc56a230a816826813f6dc4b8ff4928131e88d751%26v%3D4" alt="ilyass-firar hero visual" />
-</p>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6D28D9,50:2563EB,100:06B6D4&text=Ilyass%20FIRAR&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Ilyass FIRAR banner" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+useful+software%2C+one+commit+at+a+time.;Full+Stack+Development+%7C+Backend+Engineering;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Animated introduction" /></a>
 
 <a href="https://www.linkedin.com/in/ilyass-firar-75b021255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
